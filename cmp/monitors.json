@@ -1,0 +1,12 @@
+
+{
+  "webhook": "https://discordapp.com/api/webhooks/1499790908307148891/ymhlvnx7TNQBL2j6eV7ueFOw2F1AErMXNwPdhOvSJCes3Daz5x86_v-oAUv6BHY1luch",
+  "interval_sec": 120,
+  "cooldown_sec": 300,
+  "items": [
+    {
+      "name": "KYUHYUN 拓元",
+      "url": "https://tixcraft.com/ticket/area/26_kyuhyun/22386"
+    }
+  ]
+}
